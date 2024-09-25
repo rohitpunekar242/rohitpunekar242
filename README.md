@@ -1,9 +1,30 @@
-<h1>Hi, I'm Rohit! <br/><a href="https://github.com/joshmadakor1">Software Tester</a>
+<h1>Hi👋, I'm Rohit! <br/><a href="https://github.com/joshmadakor1">Software Test Engineer</a>
 
-<h2>👨‍💻 Software Testing Projects:</h2>
+<p align="left"> 
 
-- <b>Manual Testing - Testcases</b>
-  - [Pico Wallet Application Testcases](https://github.com/joshmadakor1/Algorithms-Practice)
+- 🔭 I’m currently working on Playwright, Selenium,  [Karate API Automation Youtube Course](https://github.com/apitestingco/KarateAPIAutomation)
+
+- 🌱 I’m currently learning Advance Design Patterns, Playwright, **Karate API Automation, Cypress**
+
+- 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**
+
+- 👨‍💻 All of my projects are available at [https://github.com/pramoddutta](https://github.com/pramoddutta)
+
+- 📝 I regularly write articles on [https://scrolltest.com/](https://scrolltest.com/)
+
+- 💬 Ask me about **Selenium, SDET, JAVA, Javascript, Cypress, POSTMAN, Rest Assured, Karate, Gatling**
+
+- 📫 How to reach me **contact@thetestingacademy.com**
+
+- 📄 Know about my experiences [http://linkedin.com/in/pramoddutta](http://linkedin.com/in/pramoddutta)
+
+- ⚡ Fun fact **I have taught 10k+ people**
+
+<p align="left">
+
+<h2>👨‍💻 Manual Testing Projects:</h2>
+
+  - [Pico Wallet](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 Certifications </h2>
 
@@ -15,17 +36,4 @@
 
 [linkedin]: https://linkedin.com/in/rohitpunekar
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
