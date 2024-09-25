@@ -4,9 +4,9 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on API Testing, Selenium, Java
+- 🔭 I’m currently working on **API Testing Automation**
 
-- 🌱 I’m currently learning Design Patterns, **Rest Assured API Automation**
+- 🌱 I’m currently learning **Design Patterns**, **Rest Assured API Automation**
 
 - 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**
 
@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [http://linkedin.com/in/rohitpunekar](http://linkedin.com/in/rohitpunekar)
 
-- ⚡ Fun fact **I believe in consistency**
+- ⚡ Fun fact **I never give up**
 
 <p align="left">
 
