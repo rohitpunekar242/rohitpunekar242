@@ -22,7 +22,7 @@
 
 <p align="left">
 
-<h2>👨‍💻 Manual Testing Projects:</h2>
+<h2>👨‍💻 Manual Testing Projects </h2>
 
   - [Pico Wallet](https://github.com/joshmadakor1/Algorithms-Practice)
 
