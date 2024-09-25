@@ -1,24 +1,24 @@
-<h1>Hi👋, I'm Rohit! <br/><a href="https://github.com/joshmadakor1">Software Test Engineer</a>
 
-<p align="left"> 
+<h1 align="center">Hi 👋, I'm Rohit Punekar</h1>
+<h3 align="center">Software Test Engineer</h3>
 
-- 🔭 I’m currently working on Playwright, Selenium,  [Karate API Automation Youtube Course](https://github.com/apitestingco/KarateAPIAutomation)
+<p align="left">  </p>
 
-- 🌱 I’m currently learning Advance Design Patterns, Playwright, **Karate API Automation, Cypress**
+- 🔭 I’m currently working on API Testing, Selenium, Java
+
+- 🌱 I’m currently learning Design Patterns, **Rest Assured API Automation**
 
 - 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pramoddutta](https://github.com/pramoddutta)
+- 👨‍💻 All of my projects are available at [https://github.com/rohitpunekar242](https://github.com/rohitpunekar242)
 
-- 📝 I regularly write articles on [https://scrolltest.com/](https://scrolltest.com/)
+- 💬 Ask me about **Manual Testing, Selenium, JAVA, POSTMAN, Rest Assured**
 
-- 💬 Ask me about **Selenium, SDET, JAVA, Javascript, Cypress, POSTMAN, Rest Assured, Karate, Gatling**
+- 📫 How to reach me **punekar435@gmail.com**
 
-- 📫 How to reach me **contact@thetestingacademy.com**
+- 📄 Know about my experiences [http://linkedin.com/in/rohitpunekar](http://linkedin.com/in/rohitpunekar)
 
-- 📄 Know about my experiences [http://linkedin.com/in/pramoddutta](http://linkedin.com/in/pramoddutta)
-
-- ⚡ Fun fact **I have taught 10k+ people**
+- ⚡ Fun fact **I believe in consistency**
 
 <p align="left">
 
