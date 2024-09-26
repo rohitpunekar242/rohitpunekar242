@@ -1,24 +1,24 @@
 
 <h1 align="center">Hi 👋, I'm Rohit Punekar</h1>
-<h3 align="center">Software Test Engineer</h3>
+<h3 align="center">Software Testing Enthusiast</h3>
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **improving my skills in Test Automation.**
+- 🔭 I’m currently working on **Selenium Automation Project (UI & Functional)**
 
-- 🌱 I’m currently learning **Design Patterns**, **Rest Assured API Automation**
+- 🌱 I’m currently learning **Java**, **Rest Assured**
 
-- 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**
+- 👯 I’m looking to collaborate on **Selenium Automation, Framework development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohitpunekar242](https://github.com/rohitpunekar242)
 
-- 💬 Ask me about **Manual Testing, Selenium, JAVA, POSTMAN, Rest Assured**
+- 💬 Ask me about **Software Testing, POSTMAN, Selenium, Rest Assured, JAVA**
 
-- 📫 How to reach me **punekar435@gmail.com**
+- 📫 How to reach me **call me : +91 7498863242**
 
 - 📄 Know about my experiences [http://linkedin.com/in/rohitpunekar](http://linkedin.com/in/rohitpunekar)
 
-- ⚡ Fun fact **I believe in continuous learning and enjoy exploring new technologies.**
+- ⚡ Fun fact **I like to be the best at what I do, So I make an effort to learn on my own & Improve from mistakes**
 
 <p align="left">
 
