@@ -4,7 +4,7 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **API Testing Automation**
+- 🔭 I’m currently working on **improving my skills in Test Automation.**
 
 - 🌱 I’m currently learning **Design Patterns**, **Rest Assured API Automation**
 
@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [http://linkedin.com/in/rohitpunekar](http://linkedin.com/in/rohitpunekar)
 
-- ⚡ Fun fact **I never give up**
+- ⚡ Fun fact **I believe in continuous learning and enjoy exploring new technologies.**
 
 <p align="left">
 
