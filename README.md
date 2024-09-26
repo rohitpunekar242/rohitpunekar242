@@ -22,9 +22,9 @@
 
 <p align="left">
 
-<h2>👨‍💻 Manual Testing Projects </h2>
+<h2>👨‍💻 Software Testing Projects </h2>
 
-  - [Pico Wallet](https://github.com/rohitpunekar242/Pico-Wallet)
+  - [Picowallet-mobile-application-testing](https://github.com/rohitpunekar242/Pico-Wallet)
 
 <h2>📺 Certifications </h2>
 
