@@ -4,15 +4,15 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **Selenium Automation Project (UI & Functional)**
+- 🔭 I’m currently working on **Java, Postman, SQL, Selenium, Rest Assured**
 
-- 🌱 I’m currently learning **Java**, **Rest Assured**
+- 🌱 I’m currently learning **Java, Rest Assured**
 
-- 👯 I’m looking to collaborate on **Selenium Automation, Framework development**
+- 👯 I’m looking to collaborate on **Automation Testing Project (UI/Functional/API)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohitpunekar242](https://github.com/rohitpunekar242)
 
-- 💬 Ask me about **Software Testing, POSTMAN, Selenium, Rest Assured, JAVA**
+- 💬 Ask me about **Anything about Software Testing**
 
 - 📫 How to reach me **call me : +91 7498863242**
 
