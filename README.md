@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohitpunekar242](https://github.com/rohitpunekar242)
 
-- 💬 Ask me about **Anything about Software Testing**
+- 💬 Ask me about **anything related to Software Testing**
 
 - 📫 How to reach me **call me : +91 7498863242**
 
