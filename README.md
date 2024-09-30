@@ -25,8 +25,10 @@
 <h2>👨‍💻 Projects </h2>
 
    <h3> Manual Mobile Application Testing Project: </h3>
-  - [Picowallet-mobile-application-testing] 
-  (https://github.com/rohitpunekar242/Pico-Wallet)
+  - [Picowallet] (https://github.com/rohitpunekar242/Pico-Wallet)
+
+  <h3> Java Projects: </h3>
+  - (https://github.com/rohitpunekar242/java-projects)
 
 <h2>📺 Certifications </h2>
 
