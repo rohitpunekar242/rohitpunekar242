@@ -30,6 +30,9 @@
   <h3> Java Projects: </h3>
   - (https://github.com/rohitpunekar242/java-projects)
 
+  <h3> Postman API Manual Testing Projects: </h3>
+  - (https://github.com/rohitpunekar242/postman-API-testing-projects)
+
 <h2>📺 Certifications </h2>
 
 - [Selenium WebDriver with Java-Basic to advance (Udemy)](https://www.udemy.com/certificate/UC-28745a6f-cab6-489d-8484-ef76f2112631/)
