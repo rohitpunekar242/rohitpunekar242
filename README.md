@@ -22,17 +22,17 @@
 
 <h2>👨‍💻 Personal Projects </h2>
 
-   <h3> Manual Testing: Mobile Application Project </h3>
+   <h3> Manual Testing </h3>
    
-  - [picowallet-mobile-app-testing](https://github.com/rohitpunekar242/Pico-Wallet)
+  - Mobile Application Testing Project: [picowallet-mobile-app-testing](https://github.com/rohitpunekar242/Pico-Wallet)
 
-  <h3> Python: Automate boring stuffs exercises </h3>
+  <h3> Python </h3>
   
-  - [automate-the-boring-stuff-exercises](https://github.com/rohitpunekar242/automate-the-boring-stuff-exercises)
+  - Automate boring stuffs exercises (Basic Level): [automate-the-boring-stuff-exercises](https://github.com/rohitpunekar242/automate-the-boring-stuff-exercises)
 
-  <h3> REST API Automation: Google Place API </h3>
+  <h3> REST API Automation </h3>
   
-  - [googleplace-api-automation-rest-assured](https://github.com/rohitpunekar242/googleplace-api-automation-rest-assured)
+  - Google Maps Place API (Basic Level Project): [googleplace-api-automation-rest-assured](https://github.com/rohitpunekar242/googleplace-api-automation-rest-assured)
 
 <h2>📺 Certifications </h2>
 
