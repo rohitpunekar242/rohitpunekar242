@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Automation Testing Project (Frontend/Backend)**
 
-- 👨‍💻 All of my projects are available at [My Github Portfolio](https://github.com/rohitpunekar242)
+- 👨‍💻 All of my projects are available at [My Github Portfolio](https://github.com/rohitpunekar242?tab=repositories)
 
 - 💬 I'm currently reading books **(1) Lessons learned in software testing. (2) Automate boring stuffs with Python. (3) Head First Java.**
 
