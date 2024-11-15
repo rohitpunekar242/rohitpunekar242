@@ -35,6 +35,7 @@
   - Google Maps Place API (Project Level - Basic): [googleplace-api-automation-rest-assured](https://github.com/rohitpunekar242/googleplace-api-automation-rest-assured)
   - Library API (Project Level - Basic): [library-api-automation-rest-assured](https://github.com/rohitpunekar242/library-api-automation-rest-assured)
   - Jira API (Project Level - Basic): [jira-api-automation-rest-assured](https://github.com/rohitpunekar242/jira-api-automation-rest-assured)
+  - Mock Json API (Project Level - Intermediate): [mock-json-restassured](https://github.com/rohitpunekar242/mock-json-restassured)
 
 <h2>📺 Certifications </h2>
 
