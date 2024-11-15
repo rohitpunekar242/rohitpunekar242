@@ -32,7 +32,9 @@
 
   <h3> REST API Automation </h3>
   
-  - Google Maps Place API (Basic Level Project): [googleplace-api-automation-rest-assured](https://github.com/rohitpunekar242/googleplace-api-automation-rest-assured)
+  - Google Maps Place API (Project Level - Basic): [googleplace-api-automation-rest-assured](https://github.com/rohitpunekar242/googleplace-api-automation-rest-assured)
+  - Library API (Project Level - Basic): [library-api-automation-rest-assured](https://github.com/rohitpunekar242/library-api-automation-rest-assured)
+  - Jira API (Project Level - Basic): [jira-api-automation-rest-assured](https://github.com/rohitpunekar242/jira-api-automation-rest-assured)
 
 <h2>📺 Certifications </h2>
 
