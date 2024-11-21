@@ -36,7 +36,7 @@
   - Library API (Project Level - Basic): [library-api-automation-rest-assured](https://github.com/rohitpunekar242/library-api-automation-rest-assured)
   - Jira API (Project Level - Basic): [jira-api-automation-rest-assured](https://github.com/rohitpunekar242/jira-api-automation-rest-assured)
   - Mock Json API (Project Level - Intermediate): [mock-json-restassured](https://github.com/rohitpunekar242/mock-json-restassured)
-  - OAuth 2.0 based project (Project Level - Intermeediate): [oauth-2.0-project](https://github.com/rohitpunekar242/oauth-2.0-project/tree/master)
+  - OAuth 2.0 based project (Project Level - Intermediate): [oauth-2.0-project](https://github.com/rohitpunekar242/oauth-2.0-project/tree/master)
 
 <h2>📺 Certifications </h2>
 
