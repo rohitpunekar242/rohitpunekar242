@@ -16,7 +16,7 @@
 
 - 📄 My LinkedIn profile is: [My LinkedIn Profile](http://linkedin.com/in/rohitp242)
 
-- ⚡ Fun fact **I automate the boring stuff so my team doesn’t have to!**
+- ⚡ Fun fact **I never give up!**
 
 <p align="left">
 
