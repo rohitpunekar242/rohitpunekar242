@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [My Github Portfolio](https://github.com/rohitpunekar242?tab=repositories)
 
-- 💬 I'm currently reading books **(1) Lessons learned in software testing. (2) Automate boring stuffs with Python. (3) Head First Java.**
+- 💬 I'm currently reading books **(1) Lessons learned in software testing. (2) Automate boring stuffs with Python.**
 
 - 📫 Reach me on **mobile : +91 7498863242**
 
