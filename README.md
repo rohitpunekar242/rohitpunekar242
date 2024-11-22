@@ -37,6 +37,7 @@
   - Jira API (Project Level - Basic): [jira-api-automation-rest-assured](https://github.com/rohitpunekar242/jira-api-automation-rest-assured)
   - Mock Json API (Project Level - Intermediate): [mock-json-restassured](https://github.com/rohitpunekar242/mock-json-restassured)
   - OAuth 2.0 based project (Project Level - Intermediate): [oauth-2.0-project](https://github.com/rohitpunekar242/oauth-2.0-project/tree/master)
+  - Ecommerce API end to end flow (Project Level - Intermediate): [ecommerce-api-flow-rest-assured](https://github.com/rohitpunekar242/ecommerce-api-flow-rest-assured)
 
 <h2>📺 Certifications </h2>
 
