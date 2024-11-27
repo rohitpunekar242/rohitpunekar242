@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [My Github Portfolio](https://github.com/rohitpunekar242?tab=repositories)
 
-- 💬 I'm currently reading books **(1) Lessons learned in software testing. (2) Automate boring stuffs with Python.**
-
 - 📫 Reach me on **mobile : +91 7498863242**
 
 - 📄 My LinkedIn profile is: [My LinkedIn Profile](http://linkedin.com/in/rohitp242)
@@ -53,5 +51,15 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: http://linkedin.com/in/rohitp242
+
+<br>
+
+## 📕 Books that I've Read
+- *Lessons Learned in Software Testing*
+- *Automate the Boring Stuff with Python*
+
+
+
+
 
 
