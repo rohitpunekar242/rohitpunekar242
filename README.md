@@ -57,6 +57,7 @@
 ## 📕 Books that I've Read
 - *Lessons Learned in Software Testing*
 - *Automate the Boring Stuff with Python*
+- *Head First Java*
 
 
 
