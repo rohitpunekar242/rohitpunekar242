@@ -26,7 +26,7 @@
 
   <h3> Python </h3>
   
-  - Automate boring stuffs exercises (Basic Level): [automate-the-boring-stuff-exercises](https://github.com/rohitpunekar242/automate-the-boring-stuff-exercises)
+  - Automate boring stuffs exercises: [automate-the-boring-stuff-exercises](https://github.com/rohitpunekar242/automate-the-boring-stuff-exercises)
 
   <h3> REST API Automation </h3>
   
