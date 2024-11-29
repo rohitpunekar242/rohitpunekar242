@@ -36,6 +36,8 @@
   - Mock Json API (Intermediate): [mock-json-restassured](https://github.com/rohitpunekar242/mock-json-restassured)
   - OAuth 2.0 based project (Intermediate): [oauth-2.0-project](https://github.com/rohitpunekar242/oauth-2.0-project/tree/master)
   - Ecommerce API End-to-End flow (Intermediate): [ecommerce-api-flow-rest-assured](https://github.com/rohitpunekar242/ecommerce-api-flow-rest-assured)
+  - Rest API automation end to end framework development: [end-to-end-framework-rest-assured](https://github.com/rohitpunekar242/end-to-end-framework-rest-assured)
+  - GraphQL automation with restassured practice project: [graphql-automation-practice-project](https://github.com/rohitpunekar242/graphql-automation-practice-project)
 
 <h2>📺 Certifications </h2>
 
