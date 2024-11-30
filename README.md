@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [My Github Portfolio](https://github.com/rohitpunekar242?tab=repositories)
 
-- 📫 Reach me on **mobile : +91 7498863242**
+- 📫 Reach me on **mobile: +91 7498863242**
 
 - 📄 My LinkedIn profile is: [My LinkedIn Profile](http://linkedin.com/in/rohitp242)
 
