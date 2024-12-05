@@ -60,6 +60,7 @@
 - *Lessons Learned in Software Testing*
 - *Automate the Boring Stuff with Python*
 - *Head First Java*
+- *The Phoenix Project* (Most Fav till now)
 
 
 
