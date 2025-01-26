@@ -4,7 +4,7 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **(1) Rest Assured Automation. (2) Selenium Automation. (3) Python basics.**
+- 🔭 I’m currently working on **(1) Selenium WebDriver Web Automation. (2) Rest Assured API Automation.**
 
 - 👯 I’m looking to collaborate on **Automation Testing Project (Frontend/Backend)**
 
