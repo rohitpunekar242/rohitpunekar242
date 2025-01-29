@@ -30,12 +30,12 @@
 
   <h3> API Automation using Rest Assured</h3>
   
-  - Google Maps Place API (Basic): [googleplace-api-automation-rest-assured](https://github.com/rohitpunekar242/googleplace-api-automation-rest-assured)
-  - Library API (Basic): [library-api-automation-rest-assured](https://github.com/rohitpunekar242/library-api-automation-rest-assured)
-  - Jira API (Basic): [jira-api-automation-rest-assured](https://github.com/rohitpunekar242/jira-api-automation-rest-assured)
-  - Mock Json API (Intermediate): [mock-json-restassured](https://github.com/rohitpunekar242/mock-json-restassured)
-  - OAuth 2.0 based project (Intermediate): [oauth-2.0-project](https://github.com/rohitpunekar242/oauth-2.0-project/tree/master)
-  - Ecommerce API End-to-End flow (Intermediate): [ecommerce-api-flow-rest-assured](https://github.com/rohitpunekar242/ecommerce-api-flow-rest-assured)
+  - Google Maps Place API: [googleplace-api-automation-rest-assured](https://github.com/rohitpunekar242/googleplace-api-automation-rest-assured)
+  - Library API: [library-api-automation-rest-assured](https://github.com/rohitpunekar242/library-api-automation-rest-assured)
+  - Jira API: [jira-api-automation-rest-assured](https://github.com/rohitpunekar242/jira-api-automation-rest-assured)
+  - Mock Json API: [mock-json-restassured](https://github.com/rohitpunekar242/mock-json-restassured)
+  - OAuth 2.0 based project: [oauth-2.0-project](https://github.com/rohitpunekar242/oauth-2.0-project/tree/master)
+  - Ecommerce API End-to-End flow: [ecommerce-api-flow-rest-assured](https://github.com/rohitpunekar242/ecommerce-api-flow-rest-assured)
   - Rest API automation end to end framework development: [end-to-end-framework-rest-assured](https://github.com/rohitpunekar242/end-to-end-framework-rest-assured)
   - GraphQL automation with restassured practice project: [graphql-automation-practice-project](https://github.com/rohitpunekar242/graphql-automation-practice-project)
 
