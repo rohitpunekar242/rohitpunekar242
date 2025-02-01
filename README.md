@@ -39,7 +39,7 @@
   - Rest API automation end to end framework development: [end-to-end-framework-rest-assured](https://github.com/rohitpunekar242/end-to-end-framework-rest-assured)
   - GraphQL automation with restassured practice project: [graphql-automation-practice-project](https://github.com/rohitpunekar242/graphql-automation-practice-project)
 
-    <h3> Web Automation using Selenium WebDriver</h3>
+    <h3>Web Automation using Selenium WebDriver</h3>
   - Selenium Mini Projects: [selenium-web-automation-practice](https://github.com/rohitpunekar242/selenium-web-automation-practice)
   
 
