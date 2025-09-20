@@ -55,13 +55,6 @@ Feel free to connect or reach out if you're interested in automation, testing, o
 - [Learning Docker: LinkedIn](https://www.linkedin.com/learning/certificates/cea43a602b05d28f29992ce73a42832b4c0967bef7a57c72429d26a205f7ee7b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BR3wHwEVJSgWqG%2Fv6UT0aZQ%3D%3D)
 - [Learning Kubernetes: LinkedIn](https://www.linkedin.com/learning/certificates/4d25b7b788b697cd48ae91d04516d29cdf381c9a9cf8dd3fa57fb3ad3cc6c047?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BR3wHwEVJSgWqG%2Fv6UT0aZQ%3D%3D)
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: http://linkedin.com/in/rohitp242
-
-<br>
 
 ## 📕 Books that I've Read
 - *Lessons Learned in Software Testing*
