@@ -1,20 +1,23 @@
 
-<h1 align="center">Hi 👋, I'm Rohit Punekar</h1>
-<h3 align="center">Software Testing Enthusiast</h3>
+<h1 align="center"> Hi, I'm Rohit 👋 </h1>
+<h3 align="center">🚀 About Me</h3>
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **(1) Selenium WebDriver Web Automation. (2) Rest Assured API Automation.**
+- 🔭 Currently working on:
+   * Performance Testing Using JMeter
 
-- 👯 I’m looking to collaborate on **Automation Testing Project (Frontend/Backend)**
+- 👯 Looking to collaborate on Automation Testing Projects (Frontend/Backend)**
 
-- 👨‍💻 All of my projects are available at [My Github Portfolio](https://github.com/rohitpunekar242?tab=repositories)
+- 👨‍💻 Explore all my projects in my [GitHub Portfolio](https://github.com/rohitpunekar242?tab=repositories)
 
-- 📫 Reach me on **mobile: +91 7498863242**
+- ⚡ Fun fact **I enjoy learning new things every day.**
 
-- 📄 My LinkedIn profile is: [My LinkedIn Profile](http://linkedin.com/in/rohitp242)
+📫 Contact Me
+- Mobile: +91 7498863242
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/rohitpunekar242/)
 
-- ⚡ Fun fact **I never give up!**
+Feel free to connect or reach out if you're interested in automation, testing, or collaboration!
 
 <p align="left">
 
