@@ -7,7 +7,7 @@
 - 🔭 Currently working on:
    * Performance Testing Using JMeter
 
-- 👯 Looking to collaborate on Automation Testing Projects (Frontend/Backend)**
+- 👯 Looking to collaborate on Automation Testing Projects (Frontend/Backend)
 
 - 👨‍💻 Explore all my projects in my [GitHub Portfolio](https://github.com/rohitpunekar242?tab=repositories)
 
