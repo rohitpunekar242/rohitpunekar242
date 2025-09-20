@@ -15,7 +15,7 @@
 
 📫 Contact Me
 - Mobile: +91 7498863242
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/rohitpunekar242/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/rohitp242/)
 
 Feel free to connect or reach out if you're interested in automation, testing, or collaboration!
 
